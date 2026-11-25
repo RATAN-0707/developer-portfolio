@@ -69,18 +69,42 @@
 
 ---
 
-## Personal Project Idea
-<<< One project you are genuinely excited about, and why >>>
+## Mentorship Plan
 
-## Mentor
-<<< Name of a faculty member or senior student you plan to approach >>>
+**Mentor:** <<< Name of a faculty member or senior student >>>
+**Why this person:** <<< e.g. teaches Python/DSA, has interned in my track, active in coding club >>>
+
+| When | Action |
+|------|--------|
+| Sem 1 | Introduce myself, share my GitHub profile and this roadmap, ask for feedback |
+| Every month | 15-20 minute check-in on progress against my monthly targets |
+| Sem 2-3 | Ask for code reviews on my DSA repo and database project |
+| Sem 4 | Ask for internship leads, resume feedback and referrals |
+| Sem 5-6 | Mock interviews, capstone guidance, placement advice |
+
+**What I will bring to each meeting:** my progress, one specific question, and one thing I am stuck on.
+**Backup mentor:** <<< Another senior or faculty member >>>
 
 ## Key Milestones
-| End of | Milestone |
-|--------|-----------|
-| Sem 1 | GitHub profile live, HackerRank Python Basic cert, 1 lab repo |
-| Sem 2 | 50 LeetCode Easy solved, 1 DSA project, Python OOP confident |
-| Sem 3 | Full web presence, SQL cert, 1 database project |
-| Sem 4 | First internship application sent, AWS cert, 1 full-stack project |
-| Sem 5 | Internship complete, 2 specialisation projects, portfolio polished |
-| Sem 6 | Placement secured or strong offers in hand |
+
+| End of | Milestone | Done? |
+|--------|-----------|-------|
+| Sem 1 | GitHub profile live, HackerRank Python Basic cert, 1 lab repo | [ ] |
+| Sem 2 | 50 LeetCode Easy solved, 1 DSA project, Python OOP confident | [ ] |
+| Sem 3 | Full web presence, SQL cert, 1 database project | [ ] |
+| Sem 4 | First internship application sent, AWS cert, 1 full-stack project | [ ] |
+| Sem 5 | Internship complete, 2 specialisation projects, portfolio polished | [ ] |
+| Sem 6 | Placement secured or strong offers in hand | [ ] |
+
+## Final Career Goal
+
+**Target role:** <<< e.g. Data Scientist / Backend Developer / Security Analyst / DevOps Engineer >>>
+**Target companies:** <<< 3-5 companies or company types >>>
+**Timeline:** Placement offer or confirmed opportunity before graduation
+**Long-term vision (5 years):** <<< e.g. Senior engineer in my specialisation, or building my own product >>>
+
+**How my roadmap leads there:**
+- Semesters 1-2: strong programming and DSA fundamentals
+- Semesters 3-4: databases, web and cloud basics, first real project
+- Semester 5: specialisation, internship, track certification
+- Semester 6: capstone, resume, mock interviews, placement
